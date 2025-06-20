@@ -1,0 +1,16 @@
+{
+  "name": "modulo4ethkipu",
+  "version": "1.0.0",
+  "description": "Esto es un repositorio del modulo 4 de eth Kipu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.14.4"
+  }
+}
